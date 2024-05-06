@@ -6,4 +6,4 @@
 <br>-Front end language (HTML, CSS and JS)
 <br>-Bash (Linux >>> Windows)
 <br>-OCaml
-<br>-Cybersec basic (network, OSINT)
+<br>-Cybersec basic (network, OSINT, ...)
